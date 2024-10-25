@@ -1,0 +1,21 @@
+{
+  "name": "iot-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./assets/css/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "type": "module",
+  "dependencies": {
+    "mqtt": "^5.3.4",
+    "ws": "^8.15.1"
+  },
+  "description": ""
+}

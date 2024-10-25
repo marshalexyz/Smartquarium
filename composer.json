@@ -1,0 +1,10 @@
+{
+    "name": "agif/iot-project",
+    "authors": [
+        {
+            "name": "AgifGhifari",
+            "email": "kelasonlineagif@gmail.com"
+        }
+    ],
+    "require": {}
+}
